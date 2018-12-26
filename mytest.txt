@@ -1,5 +1,9 @@
 1111111111
 2222222
+<<<<<<< HEAD
 
 
 °¡ÊÖ¶¯·§
+=======
+asdjkflasfdjkl
+>>>>>>> ccd83a477ef8152d3f78dbdfdad4285cca7e24c5
